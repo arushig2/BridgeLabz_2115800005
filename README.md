@@ -21,4 +21,6 @@
 - **07-Feb:** Learned Abstract Classes, Interfaces, and Overriding Concepts  
 - **08-Feb:** Submitted Inheritance Assignment  
 - **10-Feb:** Implemented All Principles of OOPs  
-- **11-Feb:** Submitted Singly, Doubly, and Circular Linked List Assignment  
+- **11-Feb:** Submitted Singly, Doubly, and Circular Linked List Assignment
+- **12-Feb:** Stack, Queue and Hashmap Concept learned
+- **13-Feb** Submitted Stack, Queue and Hashmap Assignment

@@ -24,4 +24,7 @@
 - **11-Feb:** Submitted Singly, Doubly, and Circular Linked List Assignment
 - **12-Feb:** Stack, Queue and Hashmap Concept learned
 - **13-Feb** Submitted Stack, Queue and Hashmap Assignment
-- **14-Feb** Sorting Algorithm Assignmen Completed
+- **14-Feb** Sorting Algorithm Assignment Completed
+- **15-Feb** File Handling Concepts learned
+- **16-Feb** Searching Algorithms and File Reader Assignment Completed
+- **17-Feb** Time Complexity Analysis of Algorithms

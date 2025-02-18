@@ -28,3 +28,4 @@
 - **15-Feb** File Handling Concepts learned
 - **16-Feb** Searching Algorithms and File Reader Assignment Completed
 - **17-Feb** Time Complexity Analysis of Algorithms
+- **18-Feb** Generics Assignment Completed

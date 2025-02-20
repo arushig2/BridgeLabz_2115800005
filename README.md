@@ -29,3 +29,5 @@
 - **16-Feb** Searching Algorithms and File Reader Assignment Completed
 - **17-Feb** Time Complexity Analysis of Algorithms
 - **18-Feb** Generics Assignment Completed
+- **19-Feb** Collections Assignment Completed
+- **20-Feb** Streams Assignment Completed

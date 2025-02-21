@@ -31,3 +31,4 @@
 - **18-Feb** Generics Assignment Completed
 - **19-Feb** Collections Assignment Completed
 - **20-Feb** Streams Assignment Completed
+- **21-Feb** Exception Handling Practiced

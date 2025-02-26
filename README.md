@@ -34,4 +34,5 @@
 - **21-Feb** Exception Handling Practiced
 - **22-Feb** Regular Expressions Assignment commpleted
 - **24-Feb** Reflection and Annotation Assignment Completed
-- **25-Feb** CSV Handling 
+- **25-Feb** CSV Handling
+- **26-Feb** JSON Data Assignment Completed

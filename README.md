@@ -38,3 +38,6 @@
 - **25-Feb** CSV Handling
 - **26-Feb** JSON Data Assignment Completed
 - **28-Feb** User Registration Web Api 
+
+### March
+- **02-Mar** Employee Management Web Api, Database Connection and Nlog implemented

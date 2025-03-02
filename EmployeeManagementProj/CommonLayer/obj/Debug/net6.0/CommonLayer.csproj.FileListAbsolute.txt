@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\bin\Debug\net6.0\CommonLayer.deps.json
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\CommonLayer.dll
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\CommonLayer.pdb
+C:\Users\DELL\Desktop\Projects\EmployeeManagementProj\CommonLayer\obj\Debug\net6.0\ref\CommonLayer.dll

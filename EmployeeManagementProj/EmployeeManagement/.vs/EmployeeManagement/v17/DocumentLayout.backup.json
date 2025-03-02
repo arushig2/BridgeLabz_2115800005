@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2936D869-4AE6-4A9C-927E-A37A6320F12F}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\repositorylayer\\migrations\\20250302145621_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\employeemanagement\\controllers\\employeemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|solutionrelative:controllers\\employeemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2936D869-4AE6-4A9C-927E-A37A6320F12F}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\repositorylayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBD51F36-CCE5-4BDA-863F-32219DA65BCE}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21FAFB3-B9A7-4710-8D04-4EBA9A796953}|..\\CommonLayer\\CommonLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\commonlayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBA042-709B-440E-8C7A-0E3CA4F6AEDA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\businesslayer\\service\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2936D869-4AE6-4A9C-927E-A37A6320F12F}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2936D869-4AE6-4A9C-927E-A37A6320F12F}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\repositorylayer\\interface\\iaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2936D869-4AE6-4A9C-927E-A37A6320F12F}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\repositorylayer\\dto\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2936D869-4AE6-4A9C-927E-A37A6320F12F}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\repositorylayer\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBA042-709B-440E-8C7A-0E3CA4F6AEDA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\businesslayer\\interface\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D64170E-EFAB-4286-910D-ECA11419229B}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\dell\\desktop\\projects\\employeemanagementproj\\modellayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250302145621_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Migrations\\20250302145621_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\20250302145621_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Migrations\\20250302145621_InitialMigration.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\20250302145621_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:56:21.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T14:53:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T14:47:05.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryLayer",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T14:45:16.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:30:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeManagementController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:14:26.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:33:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:13:47.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:30:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\CommonLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\CommonLayer\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\CommonLayer\\Employee.cs",
+              "RelativeToolTip": "..\\CommonLayer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:16:10.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\DTO\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\DTO\\EmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\DTO\\EmployeeRequest.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\DTO\\EmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:29:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:24:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:32:29.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\ModelLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Projects\\EmployeeManagementProj\\ModelLayer\\Class1.cs",
+              "RelativeToolTip": "..\\ModelLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:15:53.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
